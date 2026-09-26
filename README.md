@@ -20,3 +20,13 @@ The theoretical basis and primary source of the data structured in this project 
 The project is divided into two integrated fronts: **Wiki (Theory)** and **Notebooks (Computational Practice)**.
 - 📚 **[Access the Project Wiki](link_to_your_wiki_here):** Where the theoretical summaries, formula deductions and explanations of the physical phenomena of each chapter are documented.
 - 💻 **Codes and Applications:** Where theory becomes software. 
+
+## Author
+[Kauã Sales](https://github.com/gunner-black/): Materials Engineering student at UFCA (Federal University of Cariri).
+Researcher with previous experience in inorganic synthesis (CNPq) and developer focused on Computational Materials Science, uniting the laboratory bench with data science.
+
+- [LinkedIn](https://github.com/gunner-black/)
+- [Website](https://github.com/gunner-black/)
+- Contact: [kauasalesfeitosa@gmail.com]
+
+This project has strictly academic and educational purposes, respecting the copyright of the reference work used for study.
