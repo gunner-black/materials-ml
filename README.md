@@ -18,7 +18,7 @@ The theoretical basis and primary source of the data structured in this project 
 
 4. ## How to Browse This Project
 The project is divided into two integrated fronts: **Wiki (Theory)** and **Notebooks (Computational Practice)**.
-- 📚 **[Access the Project Wiki](link_to_your_wiki_here):** Where the theoretical summaries, formula deductions and explanations of the physical phenomena of each chapter are documented.
+- 📚 **[Access the Project Wiki](https://github.com/gunner-black/materials-ml/wiki):** Where the theoretical summaries, formula deductions and explanations of the physical phenomena of each chapter are documented.
 - 💻 **Codes and Applications:** Where theory becomes software. 
 
 ## Author
