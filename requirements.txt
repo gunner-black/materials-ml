@@ -1,0 +1,6 @@
+The codes developed in this repository require the installation, application, use of:
+
+get numpy
+get pandas
+get scikit-learn
+get matplotlib
